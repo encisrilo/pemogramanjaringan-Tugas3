@@ -1,0 +1,14 @@
+body{
+  background-color: rgb(62, 82, 172);
+}
+.navbar{
+  color: brown;
+}
+header form{
+    margin-left: 270px;
+}
+
+header h3{
+    color: WHITE;
+    margin-left: 570px;
+}
